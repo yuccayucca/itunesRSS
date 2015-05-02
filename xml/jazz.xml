@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=12</link>
+    <atom:link href="https://s.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/limit=10/genre=11/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10 Newest Releases in Jazz</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Fri, 01 May 2015 10:39:20 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2015-05-01T10:39:20-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>https://s.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Smooth Jazz All Stars Renditions of Mali Music - Smooth Jazz All Stars</title>
+    <link>https://itunes.apple.com/album/smooth-jazz-all-stars-renditions/id989897223?uo=1&amp;v0=9988</link>
+    <description>Smooth Jazz All Stars Renditions of Mali Music by Smooth Jazz All Stars</description>
+    <pubDate>Fri, 01 May 2015 10:39:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/smooth-jazz-all-stars-renditions/id989897223?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/e0/1e/ed/e01eed84-156b-aa49-ed5e-fe85f6621657/707541003032.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/smooth-jazz-all-stars-renditions/id989897223?uo=1&v0=9988">Smooth Jazz All Stars Renditions of Mali Music</a></B><br>
+						<a href="https://itunes.apple.com/artist/smooth-jazz-all-stars/id212795086?uo=1&v0=9988">Smooth Jazz All Stars</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						11</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Cc Entertainment</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Smooth Jazz All Stars</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/smooth-jazz-all-stars/id212795086?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Smooth Jazz All Stars Renditions of Mali Music</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/smooth-jazz-all-stars-renditions/id989897223?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/e0/1e/ed/e01eed84-156b-aa49-ed5e-fe85f6621657/707541003032.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/e0/1e/ed/e01eed84-156b-aa49-ed5e-fe85f6621657/707541003032.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/e0/1e/ed/e01eed84-156b-aa49-ed5e-fe85f6621657/707541003032.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Cc Entertainment</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Synovial Joints - Steve Coleman &amp; The Council of Balance</title>
+    <link>https://itunes.apple.com/album/synovial-joints/id980714259?uo=1&amp;v0=9988</link>
+    <description>Synovial Joints by Steve Coleman &amp; The Council of Balance</description>
+    <pubDate>Fri, 01 May 2015 10:39:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/synovial-joints/id980714259?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/22/9d/4a/229d4ab5-84d9-2f96-6561-ca1ee375904b/808713005721.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/synovial-joints/id980714259?uo=1&v0=9988">Synovial Joints</a></B><br>
+						<a href="https://itunes.apple.com/artist/steve-coleman/id35405453?uo=1&v0=9988">Steve Coleman &amp; The Council of Balance</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$11.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Pi Recordings, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Steve Coleman &amp; The Council of Balance</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/steve-coleman/id35405453?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Synovial Joints</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/synovial-joints/id980714259?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$11.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music5/v4/22/9d/4a/229d4ab5-84d9-2f96-6561-ca1ee375904b/808713005721.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/22/9d/4a/229d4ab5-84d9-2f96-6561-ca1ee375904b/808713005721.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/22/9d/4a/229d4ab5-84d9-2f96-6561-ca1ee375904b/808713005721.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Pi Recordings, Inc.</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Reflected Journey (Live) - Billy Cobham</title>
+    <link>https://itunes.apple.com/album/reflected-journey-live/id977232413?uo=1&amp;v0=9988</link>
+    <description>Reflected Journey (Live) by Billy Cobham</description>
+    <pubDate>Fri, 01 May 2015 10:39:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/reflected-journey-live/id977232413?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/98/63/bc/9863bcaf-0667-5baa-bc86-e3a070182893/889176706912.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/reflected-journey-live/id977232413?uo=1&v0=9988">Reflected Journey (Live)</a></B><br>
+						<a href="https://itunes.apple.com/artist/billy-cobham/id460080?uo=1&v0=9988">Billy Cobham</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						6</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz-fusion/id1110?uo=1&v0=9988">Fusion</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Purple Pyramid Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz-fusion/id1110?uo=1&amp;v0=9988">Fusion</category>
+    <itms:artist>Billy Cobham</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/billy-cobham/id460080?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Reflected Journey (Live)</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/reflected-journey-live/id977232413?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music1/v4/98/63/bc/9863bcaf-0667-5baa-bc86-e3a070182893/889176706912.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music1/v4/98/63/bc/9863bcaf-0667-5baa-bc86-e3a070182893/889176706912.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/98/63/bc/9863bcaf-0667-5baa-bc86-e3a070182893/889176706912.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Purple Pyramid Records</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Life Between the Notes - Bluey</title>
+    <link>https://itunes.apple.com/album/life-between-the-notes/id983388837?uo=1&amp;v0=9988</link>
+    <description>Life Between the Notes by Bluey</description>
+    <pubDate>Fri, 01 May 2015 10:39:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/life-between-the-notes/id983388837?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music1/v4/e0/ae/0d/e0ae0db1-9499-02a6-1d94-2290fc22f858/bluey_5430-50374.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/life-between-the-notes/id983388837?uo=1&v0=9988">Life Between the Notes</a></B><br>
+						<a href="https://itunes.apple.com/artist/bluey/id153988798?uo=1&v0=9988">Bluey</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						13</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Shanachie Ent. Corp.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Bluey</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/bluey/id153988798?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Life Between the Notes</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/life-between-the-notes/id983388837?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music1/v4/e0/ae/0d/e0ae0db1-9499-02a6-1d94-2290fc22f858/bluey_5430-50374.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music1/v4/e0/ae/0d/e0ae0db1-9499-02a6-1d94-2290fc22f858/bluey_5430-50374.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music1/v4/e0/ae/0d/e0ae0db1-9499-02a6-1d94-2290fc22f858/bluey_5430-50374.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Shanachie Ent. Corp.</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Three Times Three - - Antonio Sanchez</title>
+    <link>https://itunes.apple.com/album/three-times-three/id977695745?uo=1&amp;v0=9988</link>
+    <description>Three Times Three - by Antonio Sanchez</description>
+    <pubDate>Fri, 01 May 2015 10:39:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/three-times-three/id977695745?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/75/9a/b8/759ab800-b6ba-5db2-f8c5-a91aa5c543e6/cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/three-times-three/id977695745?uo=1&v0=9988">Three Times Three -</a></B><br>
+						<a href="https://itunes.apple.com/artist/antonio-sanchez/id23961430?uo=1&v0=9988">Antonio Sanchez</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						9</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$19.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Cam Jazz</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Antonio Sanchez</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/antonio-sanchez/id23961430?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Three Times Three -</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/three-times-three/id977695745?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$19.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/75/9a/b8/759ab800-b6ba-5db2-f8c5-a91aa5c543e6/cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/75/9a/b8/759ab800-b6ba-5db2-f8c5-a91aa5c543e6/cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/75/9a/b8/759ab800-b6ba-5db2-f8c5-a91aa5c543e6/cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Cam Jazz</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Stop Time - Jon Regen</title>
+    <link>https://itunes.apple.com/album/stop-time/id975860306?uo=1&amp;v0=9988</link>
+    <description>Stop Time by Jon Regen</description>
+    <pubDate>Fri, 01 May 2015 10:39:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/stop-time/id975860306?uo=1&v0=9988"><img border="0" src="http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/c2/f1/23/c2f12314-8b44-27d7-d640-88919c6b4d2b/JRcvr1500.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/stop-time/id975860306?uo=1&v0=9988">Stop Time</a></B><br>
+						<a href="https://itunes.apple.com/artist/jon-regen/id17264738?uo=1&v0=9988">Jon Regen</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Motéma Music LLC</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Jon Regen</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/jon-regen/id17264738?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Stop Time</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/stop-time/id975860306?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/c2/f1/23/c2f12314-8b44-27d7-d640-88919c6b4d2b/JRcvr1500.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/c2/f1/23/c2f12314-8b44-27d7-d640-88919c6b4d2b/JRcvr1500.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/c2/f1/23/c2f12314-8b44-27d7-d640-88919c6b4d2b/JRcvr1500.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Motéma Music LLC</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Smooth Jazz All Stars Perform the Music of Goapele - Smooth Jazz All Stars</title>
+    <link>https://itunes.apple.com/album/smooth-jazz-all-stars-perform/id989902460?uo=1&amp;v0=9988</link>
+    <description>Smooth Jazz All Stars Perform the Music of Goapele by Smooth Jazz All Stars</description>
+    <pubDate>Fri, 01 May 2015 10:39:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/smooth-jazz-all-stars-perform/id989902460?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music7/v4/6c/4f/10/6c4f105d-0c28-1b0b-38b0-d4294268f253/707541003230.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/smooth-jazz-all-stars-perform/id989902460?uo=1&v0=9988">Smooth Jazz All Stars Perform the Music of Goapele</a></B><br>
+						<a href="https://itunes.apple.com/artist/smooth-jazz-all-stars/id212795086?uo=1&v0=9988">Smooth Jazz All Stars</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						11</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Cc Entertainment</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Smooth Jazz All Stars</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/smooth-jazz-all-stars/id212795086?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Smooth Jazz All Stars Perform the Music of Goapele</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/smooth-jazz-all-stars-perform/id989902460?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/6c/4f/10/6c4f105d-0c28-1b0b-38b0-d4294268f253/707541003230.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music7/v4/6c/4f/10/6c4f105d-0c28-1b0b-38b0-d4294268f253/707541003230.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music7/v4/6c/4f/10/6c4f105d-0c28-1b0b-38b0-d4294268f253/707541003230.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Cc Entertainment</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>One World - Jesse Cook</title>
+    <link>https://itunes.apple.com/album/one-world/id979779961?uo=1&amp;v0=9988</link>
+    <description>One World by Jesse Cook</description>
+    <pubDate>Fri, 01 May 2015 10:39:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/one-world/id979779961?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/a6/5c/4e/a65c4e3c-8fdf-3259-acce-9c8f1ee5e780/Jesse_Cook_OneWorld.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/one-world/id979779961?uo=1&v0=9988">One World</a></B><br>
+						<a href="https://itunes.apple.com/artist/jesse-cook/id538660?uo=1&v0=9988">Jesse Cook</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						11</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Coach House Music Inc. Manufactured and distributed by eOne Music.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Jesse Cook</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/jesse-cook/id538660?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>One World</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/one-world/id979779961?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/a6/5c/4e/a65c4e3c-8fdf-3259-acce-9c8f1ee5e780/Jesse_Cook_OneWorld.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/a6/5c/4e/a65c4e3c-8fdf-3259-acce-9c8f1ee5e780/Jesse_Cook_OneWorld.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/a6/5c/4e/a65c4e3c-8fdf-3259-acce-9c8f1ee5e780/Jesse_Cook_OneWorld.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Coach House Music Inc. Manufactured and distributed by eOne Music.</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>The Song Project (Live) - John Zorn</title>
+    <link>https://itunes.apple.com/album/the-song-project-live/id984676152?uo=1&amp;v0=9988</link>
+    <description>The Song Project (Live) by John Zorn</description>
+    <pubDate>Fri, 01 May 2015 10:39:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/the-song-project-live/id984676152?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/2a/2e/3a/2a2e3a60-8f3d-831e-5fd5-62c437fa735c/702397833123.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/the-song-project-live/id984676152?uo=1&v0=9988">The Song Project (Live)</a></B><br>
+						<a href="https://itunes.apple.com/artist/john-zorn/id995599?uo=1&v0=9988">John Zorn</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						13</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Tzadik</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>John Zorn</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/john-zorn/id995599?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>The Song Project (Live)</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/the-song-project-live/id984676152?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/2a/2e/3a/2a2e3a60-8f3d-831e-5fd5-62c437fa735c/702397833123.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music3/v4/2a/2e/3a/2a2e3a60-8f3d-831e-5fd5-62c437fa735c/702397833123.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/2a/2e/3a/2a2e3a60-8f3d-831e-5fd5-62c437fa735c/702397833123.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Tzadik</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Smooth Jazz All Stars Cover Tinashe - Smooth Jazz All Stars</title>
+    <link>https://itunes.apple.com/album/smooth-jazz-all-stars-cover/id989983422?uo=1&amp;v0=9988</link>
+    <description>Smooth Jazz All Stars Cover Tinashe by Smooth Jazz All Stars</description>
+    <pubDate>Fri, 01 May 2015 10:39:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/smooth-jazz-all-stars-cover/id989983422?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/9f/a1/ee/9fa1eede-148d-e06d-a569-816d417ab1d9/707541002936.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/smooth-jazz-all-stars-cover/id989983422?uo=1&v0=9988">Smooth Jazz All Stars Cover Tinashe</a></B><br>
+						<a href="https://itunes.apple.com/artist/smooth-jazz-all-stars/id212795086?uo=1&v0=9988">Smooth Jazz All Stars</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Cc Entertainment</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Smooth Jazz All Stars</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/smooth-jazz-all-stars/id212795086?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Smooth Jazz All Stars Cover Tinashe</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/smooth-jazz-all-stars-cover/id989983422?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music7/v4/9f/a1/ee/9fa1eede-148d-e06d-a569-816d417ab1d9/707541002936.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/9f/a1/ee/9fa1eede-148d-e06d-a569-816d417ab1d9/707541002936.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/9f/a1/ee/9fa1eede-148d-e06d-a569-816d417ab1d9/707541002936.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Cc Entertainment</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>

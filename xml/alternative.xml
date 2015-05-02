@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=21</link>
+    <atom:link href="https://s.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/limit=10/genre=20/explicit=true/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10 Newest Releases in Alternative</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Fri, 01 May 2015 10:40:09 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2015-05-01T10:40:09-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>https://s.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>The Chase - Single - Future Islands</title>
+    <link>https://itunes.apple.com/album/the-chase-single/id987436919?uo=1&amp;v0=9988</link>
+    <description>The Chase - Single by Future Islands</description>
+    <pubDate>Fri, 01 May 2015 10:40:09 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/the-chase-single/id987436919?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music7/v4/8d/af/53/8daf53e3-e957-8c23-b6d2-6b954a3de16b/cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/the-chase-single/id987436919?uo=1&v0=9988">The Chase - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/future-islands/id288437518?uo=1&v0=9988">Future Islands</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 29, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						2</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$2.58</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 4AD</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Future Islands</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/future-islands/id288437518?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>The Chase - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/the-chase-single/id987436919?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$2.58</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/8d/af/53/8daf53e3-e957-8c23-b6d2-6b954a3de16b/cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is1.mzstatic.com/image/pf/us/r30/Music7/v4/8d/af/53/8daf53e3-e957-8c23-b6d2-6b954a3de16b/cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music7/v4/8d/af/53/8daf53e3-e957-8c23-b6d2-6b954a3de16b/cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 4AD</itms:rights>
+    
+        <itms:releasedate>April 29, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Inside Out (Remixes) - EP - Spoon</title>
+    <link>https://itunes.apple.com/album/inside-out-remixes-ep/id985771186?uo=1&amp;v0=9988</link>
+    <description>Inside Out (Remixes) - EP by Spoon</description>
+    <pubDate>Fri, 01 May 2015 10:40:09 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/inside-out-remixes-ep/id985771186?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music5/v4/6a/0e/3a/6a0e3ad7-1bf9-df00-e17a-f1fc1391a937/UMG_cvrart_00888072370821_01_RGB72_1500x1500_14CMGIM01812.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/inside-out-remixes-ep/id985771186?uo=1&v0=9988">Inside Out (Remixes) - EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/spoon/id703784?uo=1&v0=9988">Spoon</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						4</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$3.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 The Spoon Partnership Under exclusive license to Loma Vista Recordings. Manufactured and Distributed by Concord Music Group, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Spoon</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/spoon/id703784?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Inside Out (Remixes) - EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/inside-out-remixes-ep/id985771186?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$3.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/6a/0e/3a/6a0e3ad7-1bf9-df00-e17a-f1fc1391a937/UMG_cvrart_00888072370821_01_RGB72_1500x1500_14CMGIM01812.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/6a/0e/3a/6a0e3ad7-1bf9-df00-e17a-f1fc1391a937/UMG_cvrart_00888072370821_01_RGB72_1500x1500_14CMGIM01812.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music5/v4/6a/0e/3a/6a0e3ad7-1bf9-df00-e17a-f1fc1391a937/UMG_cvrart_00888072370821_01_RGB72_1500x1500_14CMGIM01812.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 The Spoon Partnership Under exclusive license to Loma Vista Recordings. Manufactured and Distributed by Concord Music Group, Inc.</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>More Acoustic Songs - EP - Real Friends</title>
+    <link>https://itunes.apple.com/album/more-acoustic-songs-ep/id963255301?uo=1&amp;v0=9988</link>
+    <description>More Acoustic Songs - EP by Real Friends</description>
+    <pubDate>Fri, 01 May 2015 10:40:09 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/more-acoustic-songs-ep/id963255301?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/a1/a2/4a/a1a24a26-7078-0ead-ab3c-0753a0074766/Real.Friends.RSD.2015.Exclusive.picturedisc.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/more-acoustic-songs-ep/id963255301?uo=1&v0=9988">More Acoustic Songs - EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/real-friends/id431965176?uo=1&v0=9988">Real Friends</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						4</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$3.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Fearless Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Real Friends</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/real-friends/id431965176?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>More Acoustic Songs - EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/more-acoustic-songs-ep/id963255301?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$3.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/a1/a2/4a/a1a24a26-7078-0ead-ab3c-0753a0074766/Real.Friends.RSD.2015.Exclusive.picturedisc.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/a1/a2/4a/a1a24a26-7078-0ead-ab3c-0753a0074766/Real.Friends.RSD.2015.Exclusive.picturedisc.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/a1/a2/4a/a1a24a26-7078-0ead-ab3c-0753a0074766/Real.Friends.RSD.2015.Exclusive.picturedisc.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Fearless Records</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Impossibly New - Single - They Might Be Giants</title>
+    <link>https://itunes.apple.com/album/impossibly-new-single/id977822966?uo=1&amp;v0=9988</link>
+    <description>Impossibly New - Single by They Might Be Giants</description>
+    <pubDate>Fri, 01 May 2015 10:40:09 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/impossibly-new-single/id977822966?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/8d/2d/ca/8d2dcace-53e5-eecd-a562-1a60161c6a3b/886445163674.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/impossibly-new-single/id977822966?uo=1&v0=9988">Impossibly New - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/they-might-be-giants/id149020?uo=1&v0=9988">They Might Be Giants</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Idlewild Recordings</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>They Might Be Giants</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/they-might-be-giants/id149020?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Impossibly New - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/impossibly-new-single/id977822966?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music1/v4/8d/2d/ca/8d2dcace-53e5-eecd-a562-1a60161c6a3b/886445163674.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/8d/2d/ca/8d2dcace-53e5-eecd-a562-1a60161c6a3b/886445163674.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/8d/2d/ca/8d2dcace-53e5-eecd-a562-1a60161c6a3b/886445163674.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Idlewild Recordings</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Shriek (Deluxe Version) - Wye Oak</title>
+    <link>https://itunes.apple.com/album/shriek-deluxe-version/id987638128?uo=1&amp;v0=9988</link>
+    <description>Shriek (Deluxe Version) by Wye Oak</description>
+    <pubDate>Fri, 01 May 2015 10:40:09 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/shriek-deluxe-version/id987638128?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/c5/cc/7b/c5cc7bb5-5699-69a1-b91b-f4a640cd3ae8/515_WyeOak_Shriek_1400.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/shriek-deluxe-version/id987638128?uo=1&v0=9988">Shriek (Deluxe Version)</a></B><br>
+						<a href="https://itunes.apple.com/artist/wye-oak/id276566673?uo=1&v0=9988">Wye Oak</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						15</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$10.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Merge Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Wye Oak</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/wye-oak/id276566673?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Shriek (Deluxe Version)</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/shriek-deluxe-version/id987638128?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$10.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/c5/cc/7b/c5cc7bb5-5699-69a1-b91b-f4a640cd3ae8/515_WyeOak_Shriek_1400.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/c5/cc/7b/c5cc7bb5-5699-69a1-b91b-f4a640cd3ae8/515_WyeOak_Shriek_1400.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/c5/cc/7b/c5cc7bb5-5699-69a1-b91b-f4a640cd3ae8/515_WyeOak_Shriek_1400.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Merge Records</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Twice Told Tales - 10,000 Maniacs</title>
+    <link>https://itunes.apple.com/album/twice-told-tales/id975168211?uo=1&amp;v0=9988</link>
+    <description>Twice Told Tales by 10,000 Maniacs</description>
+    <pubDate>Fri, 01 May 2015 10:40:09 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/twice-told-tales/id975168211?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music2/v4/fd/9d/ab/fd9dab5f-59df-4133-8312-267db6dda10e/889176601620.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/twice-told-tales/id975168211?uo=1&v0=9988">Twice Told Tales</a></B><br>
+						<a href="https://itunes.apple.com/artist/10-000-maniacs/id204617?uo=1&v0=9988">10,000 Maniacs</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						14</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Cleopatra Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>10,000 Maniacs</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/10-000-maniacs/id204617?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Twice Told Tales</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/twice-told-tales/id975168211?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music2/v4/fd/9d/ab/fd9dab5f-59df-4133-8312-267db6dda10e/889176601620.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music2/v4/fd/9d/ab/fd9dab5f-59df-4133-8312-267db6dda10e/889176601620.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music2/v4/fd/9d/ab/fd9dab5f-59df-4133-8312-267db6dda10e/889176601620.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Cleopatra Records</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Should Have Gone to Bed - EP - Plain White T&#39;s</title>
+    <link>https://itunes.apple.com/album/should-have-gone-to-bed-ep/id990097032?uo=1&amp;v0=9988</link>
+    <description>Should Have Gone to Bed - EP by Plain White T&#39;s</description>
+    <pubDate>Fri, 01 May 2015 10:40:09 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/should-have-gone-to-bed-ep/id990097032?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music7/v4/01/0e/e3/010ee334-4173-0547-1a62-5209c21eb5f0/886445217148.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/should-have-gone-to-bed-ep/id990097032?uo=1&v0=9988">Should Have Gone to Bed - EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/plain-white-ts/id16252710?uo=1&v0=9988">Plain White T's</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						4</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$5.16</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Proud Bird Records/Red Jacket Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Plain White T&#39;s</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/plain-white-ts/id16252710?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Should Have Gone to Bed - EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/should-have-gone-to-bed-ep/id990097032?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$5.16</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music7/v4/01/0e/e3/010ee334-4173-0547-1a62-5209c21eb5f0/886445217148.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/01/0e/e3/010ee334-4173-0547-1a62-5209c21eb5f0/886445217148.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music7/v4/01/0e/e3/010ee334-4173-0547-1a62-5209c21eb5f0/886445217148.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Proud Bird Records/Red Jacket Records</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>+ - - Mew</title>
+    <link>https://itunes.apple.com/album//id958655785?uo=1&amp;v0=9988</link>
+    <description>+ - by Mew</description>
+    <pubDate>Fri, 01 May 2015 10:40:09 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album//id958655785?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/26/51/fa/2651fa43-d487-cbb0-cb6d-d3a0f946f3bc/886445053425.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album//id958655785?uo=1&v0=9988">+ -</a></B><br>
+						<a href="https://itunes.apple.com/artist/mew/id13813453?uo=1&v0=9988">Mew</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative-indie-rock/id1004?uo=1&v0=9988">Indie Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Mew, under exclusive license to Play It Again Sam</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative-indie-rock/id1004?uo=1&amp;v0=9988">Indie Rock</category>
+    <itms:artist>Mew</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/mew/id13813453?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>+ -</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album//id958655785?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/26/51/fa/2651fa43-d487-cbb0-cb6d-d3a0f946f3bc/886445053425.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music3/v4/26/51/fa/2651fa43-d487-cbb0-cb6d-d3a0f946f3bc/886445053425.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/26/51/fa/2651fa43-d487-cbb0-cb6d-d3a0f946f3bc/886445053425.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Mew, under exclusive license to Play It Again Sam</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Pools to Bathe In - EP - The Japanese House</title>
+    <link>https://itunes.apple.com/album/pools-to-bathe-in-ep/id971811597?uo=1&amp;v0=9988</link>
+    <description>Pools to Bathe In - EP by The Japanese House</description>
+    <pubDate>Fri, 01 May 2015 10:40:09 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/pools-to-bathe-in-ep/id971811597?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/9c/20/20/9c2020c1-7b1f-d10c-d59a-839ac1367937/889326171645_Cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/pools-to-bathe-in-ep/id971811597?uo=1&v0=9988">Pools to Bathe In - EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/the-japanese-house/id971811598?uo=1&v0=9988">The Japanese House</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 27, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						4</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$3.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Dirty Hit</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>The Japanese House</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/the-japanese-house/id971811598?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Pools to Bathe In - EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/pools-to-bathe-in-ep/id971811597?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$3.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is3.mzstatic.com/image/pf/us/r30/Music3/v4/9c/20/20/9c2020c1-7b1f-d10c-d59a-839ac1367937/889326171645_Cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/9c/20/20/9c2020c1-7b1f-d10c-d59a-839ac1367937/889326171645_Cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/9c/20/20/9c2020c1-7b1f-d10c-d59a-839ac1367937/889326171645_Cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Dirty Hit</itms:rights>
+    
+        <itms:releasedate>April 27, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Songs of God and Whiskey - The Airborne Toxic Event</title>
+    <link>https://itunes.apple.com/album/songs-of-god-and-whiskey/id987588000?uo=1&amp;v0=9988</link>
+    <description>Songs of God and Whiskey by The Airborne Toxic Event</description>
+    <pubDate>Fri, 01 May 2015 10:40:09 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/songs-of-god-and-whiskey/id987588000?uo=1&v0=9988"><img border="0" src="http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/a3/84/cd/a384cd37-3e2b-254a-4dd5-69aaca679f40/886445177510.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/songs-of-god-and-whiskey/id987588000?uo=1&v0=9988">Songs of God and Whiskey</a></B><br>
+						<a href="https://itunes.apple.com/artist/the-airborne-toxic-event/id252572441?uo=1&v0=9988">The Airborne Toxic Event</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 24, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Epic Records, a division of Sony Music Entertainment</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>The Airborne Toxic Event</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/the-airborne-toxic-event/id252572441?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Songs of God and Whiskey</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/songs-of-god-and-whiskey/id987588000?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music7/v4/a3/84/cd/a384cd37-3e2b-254a-4dd5-69aaca679f40/886445177510.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/a3/84/cd/a384cd37-3e2b-254a-4dd5-69aaca679f40/886445177510.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/a3/84/cd/a384cd37-3e2b-254a-4dd5-69aaca679f40/886445177510.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Epic Records, a division of Sony Music Entertainment</itms:rights>
+    
+        <itms:releasedate>April 24, 2015</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>

@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=24</link>
+    <atom:link href="https://s.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/limit=10/genre=21/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10 Newest Releases in Rock</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Fri, 01 May 2015 10:25:31 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2015-05-01T10:25:31-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>https://s.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Meanwhile In Burbank... - EP - Stone Sour</title>
+    <link>https://itunes.apple.com/album/meanwhile-in-burbank...-ep/id984100093?uo=1&amp;v0=9988</link>
+    <description>Meanwhile In Burbank... - EP by Stone Sour</description>
+    <pubDate>Fri, 01 May 2015 10:25:31 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/meanwhile-in-burbank...-ep/id984100093?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music3/v4/83/a0/2b/83a02b0f-0c9b-6609-2bc6-5a5cdf3f7755/016861349448.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/meanwhile-in-burbank...-ep/id984100093?uo=1&v0=9988">Meanwhile In Burbank... - EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/stone-sour/id16643509?uo=1&v0=9988">Stone Sour</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						5</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock/id21?uo=1&v0=9988">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$4.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Roadrunner Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock/id21?uo=1&amp;v0=9988">Rock</category>
+    <itms:artist>Stone Sour</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/stone-sour/id16643509?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Meanwhile In Burbank... - EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/meanwhile-in-burbank...-ep/id984100093?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$4.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/83/a0/2b/83a02b0f-0c9b-6609-2bc6-5a5cdf3f7755/016861349448.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music3/v4/83/a0/2b/83a02b0f-0c9b-6609-2bc6-5a5cdf3f7755/016861349448.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music3/v4/83/a0/2b/83a02b0f-0c9b-6609-2bc6-5a5cdf3f7755/016861349448.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Roadrunner Records</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Forever Man: The Best of Eric Clapton (Deluxe Edition) - Eric Clapton</title>
+    <link>https://itunes.apple.com/album/forever-man-best-eric-clapton/id977832515?uo=1&amp;v0=9988</link>
+    <description>Forever Man: The Best of Eric Clapton (Deluxe Edition) by Eric Clapton</description>
+    <pubDate>Fri, 01 May 2015 10:25:31 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/forever-man-best-eric-clapton/id977832515?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/59/3b/c9/593bc9ed-020f-3ce4-ee99-cc9490ad280c/dj.cvowqhvg.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/forever-man-best-eric-clapton/id977832515?uo=1&v0=9988">Forever Man: The Best of Eric Clapton (Deluxe Edition)</a></B><br>
+						<a href="https://itunes.apple.com/artist/eric-clapton/id123853?uo=1&v0=9988">Eric Clapton</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						51</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock/id21?uo=1&v0=9988">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$39.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ This Compilation P2015 Reprise Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock/id21?uo=1&amp;v0=9988">Rock</category>
+    <itms:artist>Eric Clapton</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/eric-clapton/id123853?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Forever Man: The Best of Eric Clapton (Deluxe Edition)</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/forever-man-best-eric-clapton/id977832515?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$39.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/59/3b/c9/593bc9ed-020f-3ce4-ee99-cc9490ad280c/dj.cvowqhvg.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is4.mzstatic.com/image/pf/us/r30/Music1/v4/59/3b/c9/593bc9ed-020f-3ce4-ee99-cc9490ad280c/dj.cvowqhvg.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/59/3b/c9/593bc9ed-020f-3ce4-ee99-cc9490ad280c/dj.cvowqhvg.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; This Compilation P2015 Reprise Records</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Forever Man - Eric Clapton</title>
+    <link>https://itunes.apple.com/album/forever-man/id977829427?uo=1&amp;v0=9988</link>
+    <description>Forever Man by Eric Clapton</description>
+    <pubDate>Fri, 01 May 2015 10:25:31 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/forever-man/id977829427?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/e1/65/7a/e1657abf-f2e9-beb0-59a8-08acd3c09981/dj.enoncaik.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/forever-man/id977829427?uo=1&v0=9988">Forever Man</a></B><br>
+						<a href="https://itunes.apple.com/artist/eric-clapton/id123853?uo=1&v0=9988">Eric Clapton</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						33</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock/id21?uo=1&v0=9988">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$24.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ This Compilation P2015 Reprise Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock/id21?uo=1&amp;v0=9988">Rock</category>
+    <itms:artist>Eric Clapton</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/eric-clapton/id123853?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Forever Man</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/forever-man/id977829427?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$24.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/e1/65/7a/e1657abf-f2e9-beb0-59a8-08acd3c09981/dj.enoncaik.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/e1/65/7a/e1657abf-f2e9-beb0-59a8-08acd3c09981/dj.enoncaik.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/e1/65/7a/e1657abf-f2e9-beb0-59a8-08acd3c09981/dj.enoncaik.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; This Compilation P2015 Reprise Records</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Rain City Sessions +1 - Comeback Kid</title>
+    <link>https://itunes.apple.com/album/rain-city-sessions-+1/id982492027?uo=1&amp;v0=9988</link>
+    <description>Rain City Sessions +1 by Comeback Kid</description>
+    <pubDate>Fri, 01 May 2015 10:25:31 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/rain-city-sessions-+1/id982492027?uo=1&v0=9988"><img border="0" src="http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/2d/0f/e4/2d0fe42b-8cc6-c411-7f24-12ba0c7fdcc9/886445108071.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/rain-city-sessions-+1/id982492027?uo=1&v0=9988">Rain City Sessions +1</a></B><br>
+						<a href="https://itunes.apple.com/artist/comeback-kid/id7581156?uo=1&v0=9988">Comeback Kid</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						7</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock-hard-rock/id1152?uo=1&v0=9988">Hard Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$7.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Victory Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock-hard-rock/id1152?uo=1&amp;v0=9988">Hard Rock</category>
+    <itms:artist>Comeback Kid</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/comeback-kid/id7581156?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Rain City Sessions +1</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/rain-city-sessions-+1/id982492027?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$7.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music5/v4/2d/0f/e4/2d0fe42b-8cc6-c411-7f24-12ba0c7fdcc9/886445108071.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/2d/0f/e4/2d0fe42b-8cc6-c411-7f24-12ba0c7fdcc9/886445108071.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/2d/0f/e4/2d0fe42b-8cc6-c411-7f24-12ba0c7fdcc9/886445108071.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Victory Records</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Angel (Acoustic) - EP - Theory of a Deadman</title>
+    <link>https://itunes.apple.com/album/angel-acoustic-ep/id984052810?uo=1&amp;v0=9988</link>
+    <description>Angel (Acoustic) - EP by Theory of a Deadman</description>
+    <pubDate>Fri, 01 May 2015 10:25:31 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/angel-acoustic-ep/id984052810?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/3d/8c/b8/3d8cb879-2144-219e-e28a-6732a3f95e97/016861750732.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/angel-acoustic-ep/id984052810?uo=1&v0=9988">Angel (Acoustic) - EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/theory-of-a-deadman/id16169450?uo=1&v0=9988">Theory of a Deadman</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						5</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock/id21?uo=1&v0=9988">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$4.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2014 Roadrunner Records, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock/id21?uo=1&amp;v0=9988">Rock</category>
+    <itms:artist>Theory of a Deadman</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/theory-of-a-deadman/id16169450?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Angel (Acoustic) - EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/angel-acoustic-ep/id984052810?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$4.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is3.mzstatic.com/image/pf/us/r30/Music3/v4/3d/8c/b8/3d8cb879-2144-219e-e28a-6732a3f95e97/016861750732.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/3d/8c/b8/3d8cb879-2144-219e-e28a-6732a3f95e97/016861750732.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/3d/8c/b8/3d8cb879-2144-219e-e28a-6732a3f95e97/016861750732.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2014 Roadrunner Records, Inc.</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>I Do Not Feel Like Being Good - Single - Ryan Adams</title>
+    <link>https://itunes.apple.com/album/i-do-not-feel-like-being-good/id985852061?uo=1&amp;v0=9988</link>
+    <description>I Do Not Feel Like Being Good - Single by Ryan Adams</description>
+    <pubDate>Fri, 01 May 2015 10:25:31 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/i-do-not-feel-like-being-good/id985852061?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/6d/a5/5b/6da55bf4-42da-0d96-ad9f-dcd88b40dfcb/UMG_cvrart_00811790022499_01_RGB72_1500x1500_15UMGIM00911.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/i-do-not-feel-like-being-good/id985852061?uo=1&v0=9988">I Do Not Feel Like Being Good - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/ryan-adams/id1010602?uo=1&v0=9988">Ryan Adams</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						3</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock/id21?uo=1&v0=9988">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$2.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 PaxAmericana Recording Company</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock/id21?uo=1&amp;v0=9988">Rock</category>
+    <itms:artist>Ryan Adams</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/ryan-adams/id1010602?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>I Do Not Feel Like Being Good - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/i-do-not-feel-like-being-good/id985852061?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$2.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music5/v4/6d/a5/5b/6da55bf4-42da-0d96-ad9f-dcd88b40dfcb/UMG_cvrart_00811790022499_01_RGB72_1500x1500_15UMGIM00911.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/6d/a5/5b/6da55bf4-42da-0d96-ad9f-dcd88b40dfcb/UMG_cvrart_00811790022499_01_RGB72_1500x1500_15UMGIM00911.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/6d/a5/5b/6da55bf4-42da-0d96-ad9f-dcd88b40dfcb/UMG_cvrart_00811790022499_01_RGB72_1500x1500_15UMGIM00911.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 PaxAmericana Recording Company</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Don&#39;t Let Me Be Misunderstood - Single - Eric Burdon</title>
+    <link>https://itunes.apple.com/album/dont-let-me-be-misunderstood/id985783969?uo=1&amp;v0=9988</link>
+    <description>Don&#39;t Let Me Be Misunderstood - Single by Eric Burdon</description>
+    <pubDate>Fri, 01 May 2015 10:25:31 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/dont-let-me-be-misunderstood/id985783969?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/9b/5b/43/9b5b4363-f38d-8188-0ae0-e3f88589a9ad/ERIC-BURDON-DON_T-LET-ME-BE-MISUNDERSTOOD.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/dont-let-me-be-misunderstood/id985783969?uo=1&v0=9988">Don't Let Me Be Misunderstood - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/eric-burdon/id1960014?uo=1&v0=9988">Eric Burdon</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock/id21?uo=1&v0=9988">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$0.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 GAMC</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock/id21?uo=1&amp;v0=9988">Rock</category>
+    <itms:artist>Eric Burdon</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/eric-burdon/id1960014?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Don&#39;t Let Me Be Misunderstood - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/dont-let-me-be-misunderstood/id985783969?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$0.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is3.mzstatic.com/image/pf/us/r30/Music1/v4/9b/5b/43/9b5b4363-f38d-8188-0ae0-e3f88589a9ad/ERIC-BURDON-DON_T-LET-ME-BE-MISUNDERSTOOD.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/9b/5b/43/9b5b4363-f38d-8188-0ae0-e3f88589a9ad/ERIC-BURDON-DON_T-LET-ME-BE-MISUNDERSTOOD.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/9b/5b/43/9b5b4363-f38d-8188-0ae0-e3f88589a9ad/ERIC-BURDON-DON_T-LET-ME-BE-MISUNDERSTOOD.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 GAMC</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>35th Anniversary Tour (Live) - Pat Benatar &amp; Neil Giraldo</title>
+    <link>https://itunes.apple.com/album/35th-anniversary-tour-live/id983038975?uo=1&amp;v0=9988</link>
+    <description>35th Anniversary Tour (Live) by Pat Benatar &amp; Neil Giraldo</description>
+    <pubDate>Fri, 01 May 2015 10:25:31 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/35th-anniversary-tour-live/id983038975?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music7/v4/f3/5c/ec/f35cec43-9f5b-7dc2-30ec-c554528a1845/dj.jtoozryz.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/35th-anniversary-tour-live/id983038975?uo=1&v0=9988">35th Anniversary Tour (Live)</a></B><br>
+						<a href="https://itunes.apple.com/artist/pat-benatar/id540530?uo=1&v0=9988">Pat Benatar &amp; Neil Giraldo</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						14</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock/id21?uo=1&v0=9988">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Mailboat Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock/id21?uo=1&amp;v0=9988">Rock</category>
+    <itms:artist>Pat Benatar &amp; Neil Giraldo</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/pat-benatar/id540530?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>35th Anniversary Tour (Live)</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/35th-anniversary-tour-live/id983038975?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music7/v4/f3/5c/ec/f35cec43-9f5b-7dc2-30ec-c554528a1845/dj.jtoozryz.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music7/v4/f3/5c/ec/f35cec43-9f5b-7dc2-30ec-c554528a1845/dj.jtoozryz.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music7/v4/f3/5c/ec/f35cec43-9f5b-7dc2-30ec-c554528a1845/dj.jtoozryz.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Mailboat Records</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>South of the City - Single - The Devil Wears Prada</title>
+    <link>https://itunes.apple.com/album/south-of-the-city-single/id984596417?uo=1&amp;v0=9988</link>
+    <description>South of the City - Single by The Devil Wears Prada</description>
+    <pubDate>Fri, 01 May 2015 10:25:31 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/south-of-the-city-single/id984596417?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/a4/86/8b/a4868bc3-bbeb-c861-434f-9430b469cdcc/dj.mihnbczi.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/south-of-the-city-single/id984596417?uo=1&v0=9988">South of the City - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/the-devil-wears-prada/id189224243?uo=1&v0=9988">The Devil Wears Prada</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock-metal/id1153?uo=1&v0=9988">Metal</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Roadrunner Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock-metal/id1153?uo=1&amp;v0=9988">Metal</category>
+    <itms:artist>The Devil Wears Prada</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/the-devil-wears-prada/id189224243?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>South of the City - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/south-of-the-city-single/id984596417?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music5/v4/a4/86/8b/a4868bc3-bbeb-c861-434f-9430b469cdcc/dj.mihnbczi.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/a4/86/8b/a4868bc3-bbeb-c861-434f-9430b469cdcc/dj.mihnbczi.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/a4/86/8b/a4868bc3-bbeb-c861-434f-9430b469cdcc/dj.mihnbczi.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Roadrunner Records</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Dead Trees - From First to Last</title>
+    <link>https://itunes.apple.com/album/dead-trees/id978356951?uo=1&amp;v0=9988</link>
+    <description>Dead Trees by From First to Last</description>
+    <pubDate>Fri, 01 May 2015 10:25:31 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/dead-trees/id978356951?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music3/v4/d7/2d/4e/d72d4ef8-a4db-ee56-58b3-e8efca2f43dd/817424014311.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/dead-trees/id978356951?uo=1&v0=9988">Dead Trees</a></B><br>
+						<a href="https://itunes.apple.com/artist/from-first-to-last/id28673455?uo=1&v0=9988">From First to Last</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 27, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						14</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock/id21?uo=1&v0=9988">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Sumerian Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock/id21?uo=1&amp;v0=9988">Rock</category>
+    <itms:artist>From First to Last</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/from-first-to-last/id28673455?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Dead Trees</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/dead-trees/id978356951?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is3.mzstatic.com/image/pf/us/r30/Music3/v4/d7/2d/4e/d72d4ef8-a4db-ee56-58b3-e8efca2f43dd/817424014311.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/d7/2d/4e/d72d4ef8-a4db-ee56-58b3-e8efca2f43dd/817424014311.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music3/v4/d7/2d/4e/d72d4ef8-a4db-ee56-58b3-e8efca2f43dd/817424014311.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Sumerian Records</itms:rights>
+    
+        <itms:releasedate>April 27, 2015</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>

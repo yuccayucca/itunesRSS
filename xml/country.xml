@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=6</link>
+    <atom:link href="https://s.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/limit=10/genre=6/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10 Newest Releases in Country</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Fri, 01 May 2015 10:30:49 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2015-05-01T10:30:49-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>https://s.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Folks Like Us - Montgomery Gentry</title>
+    <link>https://itunes.apple.com/album/folks-like-us/id979138409?uo=1&amp;v0=9988</link>
+    <description>Folks Like Us by Montgomery Gentry</description>
+    <pubDate>Fri, 01 May 2015 10:30:49 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/folks-like-us/id979138409?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music1/v4/a7/b5/c0/a7b5c05d-5388-45b0-be76-546da10b6f32/886445117868.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/folks-like-us/id979138409?uo=1&v0=9988">Folks Like Us</a></B><br>
+						<a href="https://itunes.apple.com/artist/montgomery-gentry/id452144125?uo=1&v0=9988">Montgomery Gentry</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Expected Release Date:</B>
+						June 9, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-country-contemporary/id1037?uo=1&v0=9988">Contemporary Country</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						By Song Only</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Blaster Records, Ltd.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-country-contemporary/id1037?uo=1&amp;v0=9988">Contemporary Country</category>
+    <itms:artist>Montgomery Gentry</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/montgomery-gentry/id452144125?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Folks Like Us</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/folks-like-us/id979138409?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>By Song Only</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/a7/b5/c0/a7b5c05d-5388-45b0-be76-546da10b6f32/886445117868.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music1/v4/a7/b5/c0/a7b5c05d-5388-45b0-be76-546da10b6f32/886445117868.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music1/v4/a7/b5/c0/a7b5c05d-5388-45b0-be76-546da10b6f32/886445117868.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Blaster Records, Ltd.</itms:rights>
+    
+        <itms:releasedate>June 9, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Over the Rainbow - Single - Martina McBride</title>
+    <link>https://itunes.apple.com/album/over-the-rainbow-single/id990493329?uo=1&amp;v0=9988</link>
+    <description>Over the Rainbow - Single by Martina McBride</description>
+    <pubDate>Fri, 01 May 2015 10:30:49 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/over-the-rainbow-single/id990493329?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/21/c5/29/21c529eb-4302-a191-d034-845e546d33c1/UMG_cvrart_00843930018192_01_RGB72_1500x1500_15UMGIM24535.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/over-the-rainbow-single/id990493329?uo=1&v0=9988">Over the Rainbow - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/martina-mcbride/id215278?uo=1&v0=9988">Martina McBride</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 29, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-country/id6?uo=1&v0=9988">Country</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 NASH Icon Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-country/id6?uo=1&amp;v0=9988">Country</category>
+    <itms:artist>Martina McBride</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/martina-mcbride/id215278?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Over the Rainbow - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/over-the-rainbow-single/id990493329?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music7/v4/21/c5/29/21c529eb-4302-a191-d034-845e546d33c1/UMG_cvrart_00843930018192_01_RGB72_1500x1500_15UMGIM24535.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/21/c5/29/21c529eb-4302-a191-d034-845e546d33c1/UMG_cvrart_00843930018192_01_RGB72_1500x1500_15UMGIM24535.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/21/c5/29/21c529eb-4302-a191-d034-845e546d33c1/UMG_cvrart_00843930018192_01_RGB72_1500x1500_15UMGIM24535.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 NASH Icon Records</itms:rights>
+    
+        <itms:releasedate>April 29, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Feet Wet - Single - Corey Smith</title>
+    <link>https://itunes.apple.com/album/feet-wet-single/id985843622?uo=1&amp;v0=9988</link>
+    <description>Feet Wet - Single by Corey Smith</description>
+    <pubDate>Fri, 01 May 2015 10:30:49 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/feet-wet-single/id985843622?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/95/31/ec/9531ecfe-04fc-5303-858c-7932b706271e/UMG_cvrart_00015891722955_01_RGB72_1500x1500_15UMGIM20574.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/feet-wet-single/id985843622?uo=1&v0=9988">Feet Wet - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/corey-smith/id97168103?uo=1&v0=9988">Corey Smith</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-country/id6?uo=1&v0=9988">Country</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Undertone Records, Inc. under exclusive license to Sugar Hill Records, a division of Concord Music Group, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-country/id6?uo=1&amp;v0=9988">Country</category>
+    <itms:artist>Corey Smith</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/corey-smith/id97168103?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Feet Wet - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/feet-wet-single/id985843622?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music7/v4/95/31/ec/9531ecfe-04fc-5303-858c-7932b706271e/UMG_cvrart_00015891722955_01_RGB72_1500x1500_15UMGIM20574.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/95/31/ec/9531ecfe-04fc-5303-858c-7932b706271e/UMG_cvrart_00015891722955_01_RGB72_1500x1500_15UMGIM20574.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music7/v4/95/31/ec/9531ecfe-04fc-5303-858c-7932b706271e/UMG_cvrart_00015891722955_01_RGB72_1500x1500_15UMGIM20574.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Undertone Records, Inc. under exclusive license to Sugar Hill Records, a division of Concord Music Group, Inc.</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Same Hometown - Single - Matt Kennon</title>
+    <link>https://itunes.apple.com/album/same-hometown-single/id984142044?uo=1&amp;v0=9988</link>
+    <description>Same Hometown - Single by Matt Kennon</description>
+    <pubDate>Fri, 01 May 2015 10:30:49 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/same-hometown-single/id984142044?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music1/v4/ea/0e/dd/ea0edd8e-b174-4c26-c2ea-bc460431baa2/Matt_Kennon_-_Same_Hometown_cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/same-hometown-single/id984142044?uo=1&v0=9988">Same Hometown - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/matt-kennon/id334255604?uo=1&v0=9988">Matt Kennon</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						3</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-country-contemporary/id1037?uo=1&v0=9988">Contemporary Country</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$3.87</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 River Swirl Music</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-country-contemporary/id1037?uo=1&amp;v0=9988">Contemporary Country</category>
+    <itms:artist>Matt Kennon</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/matt-kennon/id334255604?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Same Hometown - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/same-hometown-single/id984142044?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$3.87</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/ea/0e/dd/ea0edd8e-b174-4c26-c2ea-bc460431baa2/Matt_Kennon_-_Same_Hometown_cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music1/v4/ea/0e/dd/ea0edd8e-b174-4c26-c2ea-bc460431baa2/Matt_Kennon_-_Same_Hometown_cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music1/v4/ea/0e/dd/ea0edd8e-b174-4c26-c2ea-bc460431baa2/Matt_Kennon_-_Same_Hometown_cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 River Swirl Music</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Greatest Hits Live - Collin Raye</title>
+    <link>https://itunes.apple.com/album/greatest-hits-live/id976966406?uo=1&amp;v0=9988</link>
+    <description>Greatest Hits Live by Collin Raye</description>
+    <pubDate>Fri, 01 May 2015 10:30:49 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/greatest-hits-live/id976966406?uo=1&v0=9988"><img border="0" src="http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/a8/fc/dc/a8fcdcb7-be67-771d-5ec1-1d1c49f69760/889176707230.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/greatest-hits-live/id976966406?uo=1&v0=9988">Greatest Hits Live</a></B><br>
+						<a href="https://itunes.apple.com/artist/collin-raye/id520083?uo=1&v0=9988">Collin Raye</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						18</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-country/id6?uo=1&v0=9988">Country</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Goldenlane Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-country/id6?uo=1&amp;v0=9988">Country</category>
+    <itms:artist>Collin Raye</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/collin-raye/id520083?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Greatest Hits Live</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/greatest-hits-live/id976966406?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/a8/fc/dc/a8fcdcb7-be67-771d-5ec1-1d1c49f69760/889176707230.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/a8/fc/dc/a8fcdcb7-be67-771d-5ec1-1d1c49f69760/889176707230.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/a8/fc/dc/a8fcdcb7-be67-771d-5ec1-1d1c49f69760/889176707230.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Goldenlane Records</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Two of a Crime (From &#34;Hot Pursuit&#34;) - Single - Miranda Lambert</title>
+    <link>https://itunes.apple.com/album/two-crime-from-hot-pursuit/id987070708?uo=1&amp;v0=9988</link>
+    <description>Two of a Crime (From &#34;Hot Pursuit&#34;) - Single by Miranda Lambert</description>
+    <pubDate>Fri, 01 May 2015 10:30:49 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/two-crime-from-hot-pursuit/id987070708?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music7/v4/7b/2c/78/7b2c7831-3215-4ae3-71a9-d4093d42eb5d/886445231205.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/two-crime-from-hot-pursuit/id987070708?uo=1&v0=9988">Two of a Crime (From &quot;Hot Pursuit&quot;) - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/miranda-lambert/id18732261?uo=1&v0=9988">Miranda Lambert</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-country/id6?uo=1&v0=9988">Country</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Sony Music Entertainment</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-country/id6?uo=1&amp;v0=9988">Country</category>
+    <itms:artist>Miranda Lambert</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/miranda-lambert/id18732261?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Two of a Crime (From &#34;Hot Pursuit&#34;) - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/two-crime-from-hot-pursuit/id987070708?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music7/v4/7b/2c/78/7b2c7831-3215-4ae3-71a9-d4093d42eb5d/886445231205.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is4.mzstatic.com/image/pf/us/r30/Music7/v4/7b/2c/78/7b2c7831-3215-4ae3-71a9-d4093d42eb5d/886445231205.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music7/v4/7b/2c/78/7b2c7831-3215-4ae3-71a9-d4093d42eb5d/886445231205.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Sony Music Entertainment</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Black Crow - Mitchell Tenpenny</title>
+    <link>https://itunes.apple.com/album/black-crow/id988190890?uo=1&amp;v0=9988</link>
+    <description>Black Crow by Mitchell Tenpenny</description>
+    <pubDate>Fri, 01 May 2015 10:30:49 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/black-crow/id988190890?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music7/v4/fe/0d/76/fe0d76a0-734c-8144-3564-c2481f50736d/888295266178_cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/black-crow/id988190890?uo=1&v0=9988">Black Crow</a></B><br>
+						<a href="https://itunes.apple.com/artist/mitchell-tenpenny/id430369368?uo=1&v0=9988">Mitchell Tenpenny</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-country/id6?uo=1&v0=9988">Country</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Creation Lab Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-country/id6?uo=1&amp;v0=9988">Country</category>
+    <itms:artist>Mitchell Tenpenny</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/mitchell-tenpenny/id430369368?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Black Crow</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/black-crow/id988190890?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is3.mzstatic.com/image/pf/us/r30/Music7/v4/fe/0d/76/fe0d76a0-734c-8144-3564-c2481f50736d/888295266178_cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is4.mzstatic.com/image/pf/us/r30/Music7/v4/fe/0d/76/fe0d76a0-734c-8144-3564-c2481f50736d/888295266178_cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music7/v4/fe/0d/76/fe0d76a0-734c-8144-3564-c2481f50736d/888295266178_cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Creation Lab Records</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>JEKYLL + HYDE - Zac Brown Band</title>
+    <link>https://itunes.apple.com/album/jekyll-+-hyde/id974196236?uo=1&amp;v0=9988</link>
+    <description>JEKYLL + HYDE by Zac Brown Band</description>
+    <pubDate>Fri, 01 May 2015 10:30:49 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/jekyll-+-hyde/id974196236?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/2a/47/8c/2a478c48-df32-d640-54ed-2a494c039549/UMG_cvrart_00602547289490_01_RGB72_1502x1502_15UMGIM13888.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/jekyll-+-hyde/id974196236?uo=1&v0=9988">JEKYLL + HYDE</a></B><br>
+						<a href="https://itunes.apple.com/artist/zac-brown-band/id129045039?uo=1&v0=9988">Zac Brown Band</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						16</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-country/id6?uo=1&v0=9988">Country</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$12.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 No Reserve, Inc. under exclusive license to Republic Records, a division of UMG Recordings, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-country/id6?uo=1&amp;v0=9988">Country</category>
+    <itms:artist>Zac Brown Band</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/zac-brown-band/id129045039?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>JEKYLL + HYDE</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/jekyll-+-hyde/id974196236?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$12.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/2a/47/8c/2a478c48-df32-d640-54ed-2a494c039549/UMG_cvrart_00602547289490_01_RGB72_1502x1502_15UMGIM13888.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/2a/47/8c/2a478c48-df32-d640-54ed-2a494c039549/UMG_cvrart_00602547289490_01_RGB72_1502x1502_15UMGIM13888.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/2a/47/8c/2a478c48-df32-d640-54ed-2a494c039549/UMG_cvrart_00602547289490_01_RGB72_1502x1502_15UMGIM13888.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 No Reserve, Inc. under exclusive license to Republic Records, a division of UMG Recordings, Inc.</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Keep &#39;Em Movin&#39; (feat. Cap Bailey) - Single - Twang and Round</title>
+    <link>https://itunes.apple.com/album/keep-em-movin-feat.-cap-bailey/id983787006?uo=1&amp;v0=9988</link>
+    <description>Keep &#39;Em Movin&#39; (feat. Cap Bailey) - Single by Twang and Round</description>
+    <pubDate>Fri, 01 May 2015 10:30:49 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/keep-em-movin-feat.-cap-bailey/id983787006?uo=1&v0=9988"><img border="0" src="http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/a7/f7/53/a7f753f5-0512-99c8-54f3-f13589d91e8f/dj.anwwoqmk.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/keep-em-movin-feat.-cap-bailey/id983787006?uo=1&v0=9988">Keep 'Em Movin' (feat. Cap Bailey) - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/twang-and-round/id494171756?uo=1&v0=9988">Twang and Round</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-country/id6?uo=1&v0=9988">Country</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Backroad Records/Average Joes Entertainment</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-country/id6?uo=1&amp;v0=9988">Country</category>
+    <itms:artist>Twang and Round</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/twang-and-round/id494171756?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Keep &#39;Em Movin&#39; (feat. Cap Bailey) - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/keep-em-movin-feat.-cap-bailey/id983787006?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music5/v4/a7/f7/53/a7f753f5-0512-99c8-54f3-f13589d91e8f/dj.anwwoqmk.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/a7/f7/53/a7f753f5-0512-99c8-54f3-f13589d91e8f/dj.anwwoqmk.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/a7/f7/53/a7f753f5-0512-99c8-54f3-f13589d91e8f/dj.anwwoqmk.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Backroad Records/Average Joes Entertainment</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>What I Really Want to Say - Steven Ybarra</title>
+    <link>https://itunes.apple.com/album/what-i-really-want-to-say/id980316990?uo=1&amp;v0=9988</link>
+    <description>What I Really Want to Say by Steven Ybarra</description>
+    <pubDate>Fri, 01 May 2015 10:30:49 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/what-i-really-want-to-say/id980316990?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/c2/c2/9c/c2c29ca4-e9ce-396b-d0c5-feb92bfb0ae0/stevenybarra12.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/what-i-really-want-to-say/id980316990?uo=1&v0=9988">What I Really Want to Say</a></B><br>
+						<a href="https://itunes.apple.com/artist/steven-ybarra/id277428180?uo=1&v0=9988">Steven Ybarra</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						11</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-country/id6?uo=1&v0=9988">Country</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ Pacific Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-country/id6?uo=1&amp;v0=9988">Country</category>
+    <itms:artist>Steven Ybarra</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/steven-ybarra/id277428180?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>What I Really Want to Say</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/what-i-really-want-to-say/id980316990?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music5/v4/c2/c2/9c/c2c29ca4-e9ce-396b-d0c5-feb92bfb0ae0/stevenybarra12.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/c2/c2/9c/c2c29ca4-e9ce-396b-d0c5-feb92bfb0ae0/stevenybarra12.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/c2/c2/9c/c2c29ca4-e9ce-396b-d0c5-feb92bfb0ae0/stevenybarra12.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; Pacific Records</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>

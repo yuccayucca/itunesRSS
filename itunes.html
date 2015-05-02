@@ -1,0 +1,46 @@
+<!doctype html>
+
+<!--Yulia Ladutko
+yulialadutko@my.smccd.edu
+CIS 114 OL
+itunes.html
+Chapter 13
+Assignment 6
+04/08/2015-->
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>iTunes Ajax Demo CIS 114 Yulia Ladutko</title>
+	<link rel="stylesheet" href="css/itunes.css">
+
+</head>
+<body>
+	<h1>iTunes XML and Ajax Demo</h1>
+	<hr> 
+
+	<form>
+		<p>Category:<br />
+		<select id="choice" name="choice">
+			<option value="">Choose One</option>
+			<option value="xml/rock.xml">New Rock Releases</option>
+			<!--<option value="xml/alternative.xml">New Alternative Releases</option>-->
+			<option value="xml/country.xml">New Country Releases</option>
+			<option value="xml/reggae.xml">New Reggae Releases</option>
+			<!--<option value="xml/electronic.xml">New Electronic Releases</option>-->
+			<option value="xml/jazz.xml">New Jazz Releases</option>
+			<option value="xml/blues.xml">New Blues Releases</option>
+		</select>
+		</select>
+		</p>
+		<p>Items:<br>
+		<select size="10" id="topics" name="topics">
+			<option value="">Choose a Category First</option>
+		</select>
+		</p>
+	</form>
+	<div id="details"><span></span></div>
+	<script src="js/ajax.js"></script>
+	<script src="js/itunes.js"></script>
+</body>
+</html>

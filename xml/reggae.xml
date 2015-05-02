@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=27</link>
+    <atom:link href="https://s.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/limit=10/genre=24/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10 Newest Releases in Reggae</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Fri, 01 May 2015 10:34:08 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2015-05-01T10:34:08-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>https://s.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Thinking Out Loud (Rub a Dub Style) - Single - Mr. Vegas</title>
+    <link>https://itunes.apple.com/album/thinking-out-loud-rub-dub/id988923656?uo=1&amp;v0=9988</link>
+    <description>Thinking Out Loud (Rub a Dub Style) - Single by Mr. Vegas</description>
+    <pubDate>Fri, 01 May 2015 10:34:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/thinking-out-loud-rub-dub/id988923656?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/24/71/f5/2471f5cd-83fa-eab7-1c8f-bef8e7cde33d/Thinking_Out_Loud_cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/thinking-out-loud-rub-dub/id988923656?uo=1&v0=9988">Thinking Out Loud (Rub a Dub Style) - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/mr.-vegas/id1856856?uo=1&v0=9988">Mr. Vegas</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-reggae/id24?uo=1&v0=9988">Reggae</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 MV Music</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-reggae/id24?uo=1&amp;v0=9988">Reggae</category>
+    <itms:artist>Mr. Vegas</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/mr.-vegas/id1856856?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Thinking Out Loud (Rub a Dub Style) - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/thinking-out-loud-rub-dub/id988923656?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/24/71/f5/2471f5cd-83fa-eab7-1c8f-bef8e7cde33d/Thinking_Out_Loud_cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/24/71/f5/2471f5cd-83fa-eab7-1c8f-bef8e7cde33d/Thinking_Out_Loud_cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/24/71/f5/2471f5cd-83fa-eab7-1c8f-bef8e7cde33d/Thinking_Out_Loud_cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 MV Music</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Can&#39;t Wait Any Longer - Single - Konshens</title>
+    <link>https://itunes.apple.com/album/cant-wait-any-longer-single/id981350670?uo=1&amp;v0=9988</link>
+    <description>Can&#39;t Wait Any Longer - Single by Konshens</description>
+    <pubDate>Fri, 01 May 2015 10:34:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/cant-wait-any-longer-single/id981350670?uo=1&v0=9988"><img border="0" src="http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/08/f5/cc/08f5cc43-d4df-8169-7a37-0b59381b3411/889326209270_Cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/cant-wait-any-longer-single/id981350670?uo=1&v0=9988">Can't Wait Any Longer - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/konshens/id201225044?uo=1&v0=9988">Konshens</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						2</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-reggae-dub/id1193?uo=1&v0=9988">Dub</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ Seanizzle Records / 21st Hapilos Digital</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-reggae-dub/id1193?uo=1&amp;v0=9988">Dub</category>
+    <itms:artist>Konshens</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/konshens/id201225044?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Can&#39;t Wait Any Longer - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/cant-wait-any-longer-single/id981350670?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/08/f5/cc/08f5cc43-d4df-8169-7a37-0b59381b3411/889326209270_Cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music3/v4/08/f5/cc/08f5cc43-d4df-8169-7a37-0b59381b3411/889326209270_Cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/08/f5/cc/08f5cc43-d4df-8169-7a37-0b59381b3411/889326209270_Cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; Seanizzle Records / 21st Hapilos Digital</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Stripped &amp; Exposed - EP - Through the Roots</title>
+    <link>https://itunes.apple.com/album/stripped-exposed-ep/id984591982?uo=1&amp;v0=9988</link>
+    <description>Stripped &amp; Exposed - EP by Through the Roots</description>
+    <pubDate>Fri, 01 May 2015 10:34:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/stripped-exposed-ep/id984591982?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/89/0c/cb/890ccb36-c396-c503-4597-9e5e9062df29/TTR_EP_cover_final500px.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/stripped-exposed-ep/id984591982?uo=1&v0=9988">Stripped &amp; Exposed - EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/through-the-roots/id336986661?uo=1&v0=9988">Through the Roots</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						5</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-reggae/id24?uo=1&v0=9988">Reggae</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$4.95</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Through The Roots</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-reggae/id24?uo=1&amp;v0=9988">Reggae</category>
+    <itms:artist>Through the Roots</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/through-the-roots/id336986661?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Stripped &amp; Exposed - EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/stripped-exposed-ep/id984591982?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$4.95</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/89/0c/cb/890ccb36-c396-c503-4597-9e5e9062df29/TTR_EP_cover_final500px.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/89/0c/cb/890ccb36-c396-c503-4597-9e5e9062df29/TTR_EP_cover_final500px.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/89/0c/cb/890ccb36-c396-c503-4597-9e5e9062df29/TTR_EP_cover_final500px.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Through The Roots</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Celebrating Bob Marley - One World Chorus</title>
+    <link>https://itunes.apple.com/album/celebrating-bob-marley/id983024710?uo=1&amp;v0=9988</link>
+    <description>Celebrating Bob Marley by One World Chorus</description>
+    <pubDate>Fri, 01 May 2015 10:34:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/celebrating-bob-marley/id983024710?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/20/29/39/2029396d-a5bb-61c8-36e1-7a7fa9a446d3/Alt-1WC-Cover-iTunes.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/celebrating-bob-marley/id983024710?uo=1&v0=9988">Celebrating Bob Marley</a></B><br>
+						<a href="https://itunes.apple.com/artist/one-world-chorus/id531664941?uo=1&v0=9988">One World Chorus</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-reggae/id24?uo=1&v0=9988">Reggae</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Tuff Gong Worldwide</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-reggae/id24?uo=1&amp;v0=9988">Reggae</category>
+    <itms:artist>One World Chorus</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/one-world-chorus/id531664941?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Celebrating Bob Marley</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/celebrating-bob-marley/id983024710?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/20/29/39/2029396d-a5bb-61c8-36e1-7a7fa9a446d3/Alt-1WC-Cover-iTunes.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/20/29/39/2029396d-a5bb-61c8-36e1-7a7fa9a446d3/Alt-1WC-Cover-iTunes.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/20/29/39/2029396d-a5bb-61c8-36e1-7a7fa9a446d3/Alt-1WC-Cover-iTunes.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Tuff Gong Worldwide</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>When We Say Dancing - Single - Elephant Man</title>
+    <link>https://itunes.apple.com/album/when-we-say-dancing-single/id981377815?uo=1&amp;v0=9988</link>
+    <description>When We Say Dancing - Single by Elephant Man</description>
+    <pubDate>Fri, 01 May 2015 10:34:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/when-we-say-dancing-single/id981377815?uo=1&v0=9988"><img border="0" src="http://is2.mzstatic.com/image/pf/us/r30/Music1/v4/e8/3d/69/e83d6967-58dd-21b3-ea8b-48185ae7e444/889326209263_Cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/when-we-say-dancing-single/id981377815?uo=1&v0=9988">When We Say Dancing - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/elephant-man/id2538706?uo=1&v0=9988">Elephant Man</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						2</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-reggae-modern-dancehall/id1183?uo=1&v0=9988">Modern Dancehall</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ Energy God Productions / 21st Hapilos Digital</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-reggae-modern-dancehall/id1183?uo=1&amp;v0=9988">Modern Dancehall</category>
+    <itms:artist>Elephant Man</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/elephant-man/id2538706?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>When We Say Dancing - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/when-we-say-dancing-single/id981377815?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/e8/3d/69/e83d6967-58dd-21b3-ea8b-48185ae7e444/889326209263_Cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/e8/3d/69/e83d6967-58dd-21b3-ea8b-48185ae7e444/889326209263_Cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is2.mzstatic.com/image/pf/us/r30/Music1/v4/e8/3d/69/e83d6967-58dd-21b3-ea8b-48185ae7e444/889326209263_Cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; Energy God Productions / 21st Hapilos Digital</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Gon&#39; Get Better - Single - Vybz Kartel</title>
+    <link>https://itunes.apple.com/album/gon-get-better-single/id980402957?uo=1&amp;v0=9988</link>
+    <description>Gon&#39; Get Better - Single by Vybz Kartel</description>
+    <pubDate>Fri, 01 May 2015 10:34:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/gon-get-better-single/id980402957?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/26/e1/11/26e11130-62df-818c-118e-ec8964e0abfc/889326202233_Cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/gon-get-better-single/id980402957?uo=1&v0=9988">Gon' Get Better - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/vybz-kartel/id79371544?uo=1&v0=9988">Vybz Kartel</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-reggae-modern-dancehall/id1183?uo=1&v0=9988">Modern Dancehall</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ TJ Records / Adidjahiem Records / 21st Hapilos Digital</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-reggae-modern-dancehall/id1183?uo=1&amp;v0=9988">Modern Dancehall</category>
+    <itms:artist>Vybz Kartel</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/vybz-kartel/id79371544?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Gon&#39; Get Better - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/gon-get-better-single/id980402957?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/26/e1/11/26e11130-62df-818c-118e-ec8964e0abfc/889326202233_Cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/26/e1/11/26e11130-62df-818c-118e-ec8964e0abfc/889326202233_Cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/26/e1/11/26e11130-62df-818c-118e-ec8964e0abfc/889326202233_Cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; TJ Records / Adidjahiem Records / 21st Hapilos Digital</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Facebook Like - Single - Vybz Kartel</title>
+    <link>https://itunes.apple.com/album/facebook-like-single/id980363542?uo=1&amp;v0=9988</link>
+    <description>Facebook Like - Single by Vybz Kartel</description>
+    <pubDate>Fri, 01 May 2015 10:34:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/facebook-like-single/id980363542?uo=1&v0=9988"><img border="0" src="http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/a4/43/a5/a443a535-29da-abdb-ceed-c9dd45fd3c33/889326202226_Cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/facebook-like-single/id980363542?uo=1&v0=9988">Facebook Like - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/vybz-kartel/id79371544?uo=1&v0=9988">Vybz Kartel</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-reggae-modern-dancehall/id1183?uo=1&v0=9988">Modern Dancehall</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ TJ Records / Adidjahiem Records / 21st Hapilos Digital</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-reggae-modern-dancehall/id1183?uo=1&amp;v0=9988">Modern Dancehall</category>
+    <itms:artist>Vybz Kartel</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/vybz-kartel/id79371544?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Facebook Like - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/facebook-like-single/id980363542?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/a4/43/a5/a443a535-29da-abdb-ceed-c9dd45fd3c33/889326202226_Cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/a4/43/a5/a443a535-29da-abdb-ceed-c9dd45fd3c33/889326202226_Cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/a4/43/a5/a443a535-29da-abdb-ceed-c9dd45fd3c33/889326202226_Cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; TJ Records / Adidjahiem Records / 21st Hapilos Digital</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Slap One - Single - Popcaan</title>
+    <link>https://itunes.apple.com/album/slap-one-single/id983435581?uo=1&amp;v0=9988</link>
+    <description>Slap One - Single by Popcaan</description>
+    <pubDate>Fri, 01 May 2015 10:34:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/slap-one-single/id983435581?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/9a/28/85/9a288551-8ba7-956c-4988-93f933e5e9bc/889326217404_Cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/slap-one-single/id983435581?uo=1&v0=9988">Slap One - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/popcaan/id308214180?uo=1&v0=9988">Popcaan</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						2</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-reggae-modern-dancehall/id1183?uo=1&v0=9988">Modern Dancehall</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ H2O Records / 21st Hapilos Digital</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-reggae-modern-dancehall/id1183?uo=1&amp;v0=9988">Modern Dancehall</category>
+    <itms:artist>Popcaan</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/popcaan/id308214180?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Slap One - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/slap-one-single/id983435581?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music3/v4/9a/28/85/9a288551-8ba7-956c-4988-93f933e5e9bc/889326217404_Cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/9a/28/85/9a288551-8ba7-956c-4988-93f933e5e9bc/889326217404_Cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/9a/28/85/9a288551-8ba7-956c-4988-93f933e5e9bc/889326217404_Cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; H2O Records / 21st Hapilos Digital</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>More Sand Than Money - Oogee Wawa</title>
+    <link>https://itunes.apple.com/album/more-sand-than-money/id982561491?uo=1&amp;v0=9988</link>
+    <description>More Sand Than Money by Oogee Wawa</description>
+    <pubDate>Fri, 01 May 2015 10:34:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/more-sand-than-money/id982561491?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/a7/2c/e1/a72ce101-5524-fadb-7d94-6856e6833430/889176810527.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/more-sand-than-money/id982561491?uo=1&v0=9988">More Sand Than Money</a></B><br>
+						<a href="https://itunes.apple.com/artist/oogee-wawa/id439240335?uo=1&v0=9988">Oogee Wawa</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-reggae/id24?uo=1&v0=9988">Reggae</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Oogee Wawa / Rebel Sound Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-reggae/id24?uo=1&amp;v0=9988">Reggae</category>
+    <itms:artist>Oogee Wawa</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/oogee-wawa/id439240335?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>More Sand Than Money</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/more-sand-than-money/id982561491?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/a7/2c/e1/a72ce101-5524-fadb-7d94-6856e6833430/889176810527.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/a7/2c/e1/a72ce101-5524-fadb-7d94-6856e6833430/889176810527.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/a7/2c/e1/a72ce101-5524-fadb-7d94-6856e6833430/889176810527.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Oogee Wawa / Rebel Sound Records</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Mildew Riddim - Various Artists</title>
+    <link>https://itunes.apple.com/album/mildew-riddim/id979777821?uo=1&amp;v0=9988</link>
+    <description>Mildew Riddim by Various Artists</description>
+    <pubDate>Fri, 01 May 2015 10:34:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/mildew-riddim/id979777821?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/80/63/a8/8063a809-bfb8-f5a0-5d2b-8a68f95d14bc/889326199373_Cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/mildew-riddim/id979777821?uo=1&v0=9988">Mildew Riddim</a></B><br>
+						<br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						16</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-reggae-modern-dancehall/id1183?uo=1&v0=9988">Modern Dancehall</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$7.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ UIM Records / 21st Hapilos Digital</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-reggae-modern-dancehall/id1183?uo=1&amp;v0=9988">Modern Dancehall</category>
+    <itms:artist>Various Artists</itms:artist>
+    <itms:artistLink></itms:artistLink>
+    <itms:album>Mildew Riddim</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/mildew-riddim/id979777821?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$7.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music5/v4/80/63/a8/8063a809-bfb8-f5a0-5d2b-8a68f95d14bc/889326199373_Cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/80/63/a8/8063a809-bfb8-f5a0-5d2b-8a68f95d14bc/889326199373_Cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music5/v4/80/63/a8/8063a809-bfb8-f5a0-5d2b-8a68f95d14bc/889326199373_Cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; UIM Records / 21st Hapilos Digital</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>

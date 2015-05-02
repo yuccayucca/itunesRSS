@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=7</link>
+    <atom:link href="https://s.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/limit=10/genre=7/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10 Newest Releases in Electronic</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Fri, 01 May 2015 10:34:35 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2015-05-01T10:34:35-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>https://s.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Ep II - Power Glove</title>
+    <link>https://itunes.apple.com/album/ep-ii/id990227694?uo=1&amp;v0=9988</link>
+    <description>Ep II by Power Glove</description>
+    <pubDate>Fri, 01 May 2015 10:34:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/ep-ii/id990227694?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music2/v4/8a/c3/a7/8ac3a79e-5bca-21d3-1bf5-bb51dfe2858f/889211553501.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/ep-ii/id990227694?uo=1&v0=9988">Ep II</a></B><br>
+						<a href="https://itunes.apple.com/artist/power-glove/id525970553?uo=1&v0=9988">Power Glove</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 29, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						7</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-electronic/id7?uo=1&v0=9988">Electronic</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$6.93</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Power Glove</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-electronic/id7?uo=1&amp;v0=9988">Electronic</category>
+    <itms:artist>Power Glove</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/power-glove/id525970553?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Ep II</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/ep-ii/id990227694?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$6.93</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music2/v4/8a/c3/a7/8ac3a79e-5bca-21d3-1bf5-bb51dfe2858f/889211553501.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is4.mzstatic.com/image/pf/us/r30/Music2/v4/8a/c3/a7/8ac3a79e-5bca-21d3-1bf5-bb51dfe2858f/889211553501.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music2/v4/8a/c3/a7/8ac3a79e-5bca-21d3-1bf5-bb51dfe2858f/889211553501.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Power Glove</itms:rights>
+    
+        <itms:releasedate>April 29, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>400 Blows (John Wizards Remix) - Single - Zero 7</title>
+    <link>https://itunes.apple.com/album/400-blows-john-wizards-remix/id981467484?uo=1&amp;v0=9988</link>
+    <description>400 Blows (John Wizards Remix) - Single by Zero 7</description>
+    <pubDate>Fri, 01 May 2015 10:34:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/400-blows-john-wizards-remix/id981467484?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/da/c3/cf/dac3cfc2-5913-c32e-b06b-0d086e803ac5/5060186927794_1.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/400-blows-john-wizards-remix/id981467484?uo=1&v0=9988">400 Blows (John Wizards Remix) - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/zero-7/id2509752?uo=1&v0=9988">Zero 7</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-electronic/id7?uo=1&v0=9988">Electronic</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Zero 7 Partnership</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-electronic/id7?uo=1&amp;v0=9988">Electronic</category>
+    <itms:artist>Zero 7</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/zero-7/id2509752?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>400 Blows (John Wizards Remix) - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/400-blows-john-wizards-remix/id981467484?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/da/c3/cf/dac3cfc2-5913-c32e-b06b-0d086e803ac5/5060186927794_1.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/da/c3/cf/dac3cfc2-5913-c32e-b06b-0d086e803ac5/5060186927794_1.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/da/c3/cf/dac3cfc2-5913-c32e-b06b-0d086e803ac5/5060186927794_1.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Zero 7 Partnership</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Forsyth Gardens - Prefuse 73</title>
+    <link>https://itunes.apple.com/album/forsyth-gardens/id967334047?uo=1&amp;v0=9988</link>
+    <description>Forsyth Gardens by Prefuse 73</description>
+    <pubDate>Fri, 01 May 2015 10:34:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/forsyth-gardens/id967334047?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/5d/ad/de/5daddefd-74d7-d306-2ada-b775f0c83dba/656605321066.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/forsyth-gardens/id967334047?uo=1&v0=9988">Forsyth Gardens</a></B><br>
+						<a href="https://itunes.apple.com/artist/prefuse-73/id4055370?uo=1&v0=9988">Prefuse 73</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						9</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-electronic/id7?uo=1&v0=9988">Electronic</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$7.92</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Temporary Residence Ltd.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-electronic/id7?uo=1&amp;v0=9988">Electronic</category>
+    <itms:artist>Prefuse 73</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/prefuse-73/id4055370?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Forsyth Gardens</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/forsyth-gardens/id967334047?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$7.92</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/5d/ad/de/5daddefd-74d7-d306-2ada-b775f0c83dba/656605321066.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/5d/ad/de/5daddefd-74d7-d306-2ada-b775f0c83dba/656605321066.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/5d/ad/de/5daddefd-74d7-d306-2ada-b775f0c83dba/656605321066.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Temporary Residence Ltd.</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>The Gaslamp Killer Experience: Live in Los Angeles - The Gaslamp Killer</title>
+    <link>https://itunes.apple.com/album/gaslamp-killer-experience/id982664548?uo=1&amp;v0=9988</link>
+    <description>The Gaslamp Killer Experience: Live in Los Angeles by The Gaslamp Killer</description>
+    <pubDate>Fri, 01 May 2015 10:34:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/gaslamp-killer-experience/id982664548?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/9c/10/6a/9c106a40-f392-7551-0b47-49ad18edbee9/Retail.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/gaslamp-killer-experience/id982664548?uo=1&v0=9988">The Gaslamp Killer Experience: Live in Los Angeles</a></B><br>
+						<a href="https://itunes.apple.com/artist/the-gaslamp-killer/id256070798?uo=1&v0=9988">The Gaslamp Killer</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						8</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-electronic/id7?uo=1&v0=9988">Electronic</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$8.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Gaslamp Killer Music</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-electronic/id7?uo=1&amp;v0=9988">Electronic</category>
+    <itms:artist>The Gaslamp Killer</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/the-gaslamp-killer/id256070798?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>The Gaslamp Killer Experience: Live in Los Angeles</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/gaslamp-killer-experience/id982664548?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$8.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/9c/10/6a/9c106a40-f392-7551-0b47-49ad18edbee9/Retail.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/9c/10/6a/9c106a40-f392-7551-0b47-49ad18edbee9/Retail.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/9c/10/6a/9c106a40-f392-7551-0b47-49ad18edbee9/Retail.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Gaslamp Killer Music</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>MG - MG</title>
+    <link>https://itunes.apple.com/album/mg/id967850562?uo=1&amp;v0=9988</link>
+    <description>MG by MG</description>
+    <pubDate>Fri, 01 May 2015 10:34:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/mg/id967850562?uo=1&v0=9988"><img border="0" src="http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/67/37/f4/6737f466-0b14-6f8b-28f2-062d5ff0de15/724596962367.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/mg/id967850562?uo=1&v0=9988">MG</a></B><br>
+						<a href="https://itunes.apple.com/artist/mg/id968211651?uo=1&v0=9988">MG</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						16</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-electronic/id7?uo=1&v0=9988">Electronic</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Grabbing Hands Ltd.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-electronic/id7?uo=1&amp;v0=9988">Electronic</category>
+    <itms:artist>MG</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/mg/id968211651?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>MG</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/mg/id967850562?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/67/37/f4/6737f466-0b14-6f8b-28f2-062d5ff0de15/724596962367.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/67/37/f4/6737f466-0b14-6f8b-28f2-062d5ff0de15/724596962367.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is1.mzstatic.com/image/pf/us/r30/Music3/v4/67/37/f4/6737f466-0b14-6f8b-28f2-062d5ff0de15/724596962367.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Grabbing Hands Ltd.</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>All U Writers / Gonna Guetta Stomp - Single - !!!</title>
+    <link>https://itunes.apple.com/album/all-u-writers-gonna-guetta/id987541659?uo=1&amp;v0=9988</link>
+    <description>All U Writers / Gonna Guetta Stomp - Single by !!!</description>
+    <pubDate>Fri, 01 May 2015 10:34:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/all-u-writers-gonna-guetta/id987541659?uo=1&v0=9988"><img border="0" src="http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/d9/80/2c/d9802c33-4967-afa5-4bbc-0b732034482f/WAP374_Packshot_1400.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/all-u-writers-gonna-guetta/id987541659?uo=1&v0=9988">All U Writers / Gonna Guetta Stomp - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/!!!/id213181158?uo=1&v0=9988">!!!</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						2</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-electronic/id7?uo=1&v0=9988">Electronic</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$2.58</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Warp Records Limited</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-electronic/id7?uo=1&amp;v0=9988">Electronic</category>
+    <itms:artist>!!!</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/!!!/id213181158?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>All U Writers / Gonna Guetta Stomp - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/all-u-writers-gonna-guetta/id987541659?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$2.58</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/d9/80/2c/d9802c33-4967-afa5-4bbc-0b732034482f/WAP374_Packshot_1400.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is3.mzstatic.com/image/pf/us/r30/Music5/v4/d9/80/2c/d9802c33-4967-afa5-4bbc-0b732034482f/WAP374_Packshot_1400.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is5.mzstatic.com/image/pf/us/r30/Music5/v4/d9/80/2c/d9802c33-4967-afa5-4bbc-0b732034482f/WAP374_Packshot_1400.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Warp Records Limited</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Pressurize the Cabin - Fort Knox Five</title>
+    <link>https://itunes.apple.com/album/pressurize-the-cabin/id973297434?uo=1&amp;v0=9988</link>
+    <description>Pressurize the Cabin by Fort Knox Five</description>
+    <pubDate>Fri, 01 May 2015 10:34:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/pressurize-the-cabin/id973297434?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music3/v4/58/af/15/58af15a6-95c9-d30d-e176-f4d4f26a6bd4/855894001783.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/pressurize-the-cabin/id973297434?uo=1&v0=9988">Pressurize the Cabin</a></B><br>
+						<a href="https://itunes.apple.com/artist/fort-knox-five/id65649397?uo=1&v0=9988">Fort Knox Five</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-electronic/id7?uo=1&v0=9988">Electronic</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$5.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Fort Knox Recordings</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-electronic/id7?uo=1&amp;v0=9988">Electronic</category>
+    <itms:artist>Fort Knox Five</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/fort-knox-five/id65649397?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Pressurize the Cabin</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/pressurize-the-cabin/id973297434?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$5.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music3/v4/58/af/15/58af15a6-95c9-d30d-e176-f4d4f26a6bd4/855894001783.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music3/v4/58/af/15/58af15a6-95c9-d30d-e176-f4d4f26a6bd4/855894001783.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music3/v4/58/af/15/58af15a6-95c9-d30d-e176-f4d4f26a6bd4/855894001783.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Fort Knox Recordings</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Commissions II - Oneohtrix Point Never</title>
+    <link>https://itunes.apple.com/album/commissions-ii/id987540864?uo=1&amp;v0=9988</link>
+    <description>Commissions II by Oneohtrix Point Never</description>
+    <pubDate>Fri, 01 May 2015 10:34:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/commissions-ii/id987540864?uo=1&v0=9988"><img border="0" src="http://is2.mzstatic.com/image/pf/us/r30/Music1/v4/2e/4b/21/2e4b21c5-7830-dbfe-f16b-4e3bf3637598/WAP382_Packshot_1400.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/commissions-ii/id987540864?uo=1&v0=9988">Commissions II</a></B><br>
+						<a href="https://itunes.apple.com/artist/oneohtrix-point-never/id338172312?uo=1&v0=9988">Oneohtrix Point Never</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						3</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-electronic/id7?uo=1&v0=9988">Electronic</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$3.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Warp Records Limited</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-electronic/id7?uo=1&amp;v0=9988">Electronic</category>
+    <itms:artist>Oneohtrix Point Never</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/oneohtrix-point-never/id338172312?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Commissions II</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/commissions-ii/id987540864?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$3.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is3.mzstatic.com/image/pf/us/r30/Music1/v4/2e/4b/21/2e4b21c5-7830-dbfe-f16b-4e3bf3637598/WAP382_Packshot_1400.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is1.mzstatic.com/image/pf/us/r30/Music1/v4/2e/4b/21/2e4b21c5-7830-dbfe-f16b-4e3bf3637598/WAP382_Packshot_1400.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is2.mzstatic.com/image/pf/us/r30/Music1/v4/2e/4b/21/2e4b21c5-7830-dbfe-f16b-4e3bf3637598/WAP382_Packshot_1400.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Warp Records Limited</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Eyes - Single - The New Division</title>
+    <link>https://itunes.apple.com/album/eyes-single/id988231524?uo=1&amp;v0=9988</link>
+    <description>Eyes - Single by The New Division</description>
+    <pubDate>Fri, 01 May 2015 10:34:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/eyes-single/id988231524?uo=1&v0=9988"><img border="0" src="http://is3.mzstatic.com/image/pf/us/r30/Music1/v4/ed/aa/bf/edaabf13-5b71-7dcb-867e-da3c2bc613b0/889326230465_Cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/eyes-single/id988231524?uo=1&v0=9988">Eyes - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/the-new-division/id326741033?uo=1&v0=9988">The New Division</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 28, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						3</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-electronic/id7?uo=1&v0=9988">Electronic</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$2.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Division 87 Records/Quapaw Music Publishing</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-electronic/id7?uo=1&amp;v0=9988">Electronic</category>
+    <itms:artist>The New Division</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/the-new-division/id326741033?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Eyes - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/eyes-single/id988231524?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$2.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is2.mzstatic.com/image/pf/us/r30/Music1/v4/ed/aa/bf/edaabf13-5b71-7dcb-867e-da3c2bc613b0/889326230465_Cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/ed/aa/bf/edaabf13-5b71-7dcb-867e-da3c2bc613b0/889326230465_Cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is3.mzstatic.com/image/pf/us/r30/Music1/v4/ed/aa/bf/edaabf13-5b71-7dcb-867e-da3c2bc613b0/889326230465_Cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Division 87 Records/Quapaw Music Publishing</itms:rights>
+    
+        <itms:releasedate>April 28, 2015</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Looking for Real Love (Mungo&#39;s Hi Fi Remix) - Single - Hollie Cook</title>
+    <link>https://itunes.apple.com/album/looking-for-real-love-mungos/id983966233?uo=1&amp;v0=9988</link>
+    <description>Looking for Real Love (Mungo&#39;s Hi Fi Remix) - Single by Hollie Cook</description>
+    <pubDate>Fri, 01 May 2015 10:34:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/looking-for-real-love-mungos/id983966233?uo=1&v0=9988"><img border="0" src="http://is4.mzstatic.com/image/pf/us/r30/Music1/v4/56/c6/e3/56c6e3f0-1d1c-fab9-09e0-0820da4b136d/cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/looking-for-real-love-mungos/id983966233?uo=1&v0=9988">Looking for Real Love (Mungo's Hi Fi Remix) - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/hollie-cook/id420686470?uo=1&v0=9988">Hollie Cook</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 27, 2015<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-electronic-dubstep/id100014?uo=1&v0=9988">Dubstep</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2015 Mr Bongo Worldwide</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-electronic-dubstep/id100014?uo=1&amp;v0=9988">Dubstep</category>
+    <itms:artist>Hollie Cook</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/hollie-cook/id420686470?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Looking for Real Love (Mungo&#39;s Hi Fi Remix) - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/looking-for-real-love-mungos/id983966233?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://is4.mzstatic.com/image/pf/us/r30/Music1/v4/56/c6/e3/56c6e3f0-1d1c-fab9-09e0-0820da4b136d/cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://is5.mzstatic.com/image/pf/us/r30/Music1/v4/56/c6/e3/56c6e3f0-1d1c-fab9-09e0-0820da4b136d/cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://is4.mzstatic.com/image/pf/us/r30/Music1/v4/56/c6/e3/56c6e3f0-1d1c-fab9-09e0-0820da4b136d/cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2015 Mr Bongo Worldwide</itms:rights>
+    
+        <itms:releasedate>April 27, 2015</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>
